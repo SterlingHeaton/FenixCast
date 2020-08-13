@@ -1,0 +1,6 @@
+name: FenixCastCore
+author: Redstonehax @sterlingheaton
+description: Custom made plugin for FenixCast
+version: 1.0
+api-version: 1.16
+main: com.redslounge.fenixcast.Plugin

@@ -1,0 +1,40 @@
+#     ______ ______ _   __ ____ _  __
+#    / ____// ____// | / //  _/| |/ /
+#   / /_   / __/  /  |/ / / /  |   /
+#  / __/  / /___ / /|  /_/ /  /   |
+# /_/    /_____//_/ |_//___/ /_/|_|
+#    ______ ___    _____ ______
+#   / ____//   |  / ___//_  __/
+#  / /    / /| |  \__ \  / /
+# / /___ / ___ | ___/ / / /
+# \____//_/  |_|/____/ /_/
+#
+# DURABILITY PING SETTINGS ⤵
+defaultDurabilityPing: true
+warnPercentage: 5
+stopWarnPercentage: 4
+
+# COORDINATES HUD SETTINGS ⤵
+defaultCoordinatesHud: true
+
+# FIND VILLAGER WORKSHOP SETTINGS ⤵
+glowEffectTime: 10
+
+# RANDOM COLORED NAME SETTINGS ⤵
+loginColors:
+#  - '&0' # black
+  - '&1' # Dark Blue
+  - '&2' # Dark Green
+  - '&3' # Dark Aqua
+  - '&4' # Dark Red
+  - '&5' # Dark Purple
+  - '&6' # Gold
+  - '&7' # Gray
+  - '&8' # Dark Gray
+  - '&9' # Blue
+  - '&a' # Green
+  - '&b' # Aqua
+  - '&c' # Red
+  - '&d' # Light Purple
+  - '&e' # Yellow
+  - '&f' # White
