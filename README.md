@@ -3,13 +3,21 @@ Minecraft plugin developed for the FenixCast server to combine some of the datap
 
 ## Features
  **Shulker Drops** - Always drops 2 shulker shells upon death
+ 
  **Dragon Drops** - Always drops a dragon egg along with an elytra
+ 
  **Random Login Colors** - Random color assigned to your name when you join the server
+ 
  **Coordinates Hud** - Uses the action bar to display your XYZ, Direction, and Time
+ 
  **Durability Ping** - Warns you with a title message and note block tone when your tool is below 5%, stops when durability reaches 4% (by default)
+ 
  **Silence Mobs** - Silence Mobs with a nametag named "silence"
+ 
  **Villager Workstation Highlighter** - Use a command and right click a villager to highlight they workstation
+ 
  **Item Average Calculator** - Use a command to get an armor stand, place that armor stand on the block where you want to calculate how many items (on average) go though that spot in a hour
+ 
  **Kill Empty Boats** - Admin command used to reduce the empty boats currently loaded
 
 ## Commands
